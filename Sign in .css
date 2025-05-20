@@ -1,0 +1,23 @@
+body{
+    background-color: ivory;
+    font-family: cursive;
+    font-display: fallback;
+    font-style: oblique;
+    font-size: larger;
+
+}
+
+ .container{
+    border: 3px solid #ff9900;
+    display: flex;
+    width: fit-content;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+   background-position: center;
+}
+.btn{
+    border-radius: 40px;
+    color: #ff9900;
+}
